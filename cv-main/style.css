@@ -1,0 +1,20 @@
+body{background-color: #f7f1f0;}
+h1{color: #262220}
+h2{color: #262220}
+hr{color: #a15c38;
+            border-style: none;
+            border-top-style:dotted;
+            border-width: 13px;
+            width: 15%;}
+p{color: #2b262D;}
+.pb{color: #252a34;}
+.tb {background-color: #a15c38;
+border:dashed ;
+}
+.tb2 {background-color: #a15c38;
+    border:dashed ;
+    border-width: 6px;
+    color: #c3a6a0;
+    }
+#cw {background-color:  #a15c38;}
+#yw {background-color:  #f7f1f0;}
